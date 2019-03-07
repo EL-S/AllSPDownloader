@@ -1,7 +1,6 @@
 import os
 import requests
 from bs4 import BeautifulSoup
-import bitarray
 
 episode_start = 1 #1 first ep
 episode_end = 300 #293 last ep so far
