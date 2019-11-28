@@ -7,6 +7,8 @@ episode_end = 300 #293 last ep so far
 
 directory = "Episodes/"
 
+# improve speed
+
 def init():
     global directory
     try:
