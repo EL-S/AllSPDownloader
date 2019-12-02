@@ -7,7 +7,7 @@ episode_end = 300 #293 last ep so far
 
 directory = "Episodes/"
 
-# improve speed
+# improve speed and efficiency
 # find a better way to get the source
 
 def init():
